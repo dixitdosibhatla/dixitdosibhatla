@@ -11,9 +11,20 @@ Building reliable data pipelines, scalable lakehouse platforms, and analytics-re
 
 ## About
 
-I am an Azure Data Engineer focused on designing and building data solutions that transform raw data into reliable, accessible, and analytics-ready information.
+I am an Azure Data Engineer focused on building scalable, reliable, and maintainable data platforms.
 
-My interests include cloud data engineering, distributed processing, data architecture, and building production-oriented data platforms.
+My work focuses on designing end-to-end data pipelines, implementing lakehouse architectures, and transforming complex source data into analytics-ready datasets.
+
+**Areas of focus**
+- Cloud data engineering with Microsoft Azure
+- Batch and streaming data ingestion
+- Distributed processing with Apache Spark and PySpark
+- Lakehouse architecture using Delta Lake
+- Data modeling, incremental processing, and data quality
+- Analytics and reporting with Power BI
+
+I enjoy solving practical engineering problems, understanding architectural trade-offs, and building data solutions that reflect real-world business requirements.
+
 
 ## Technical Skills
 
@@ -123,6 +134,14 @@ My interests include cloud data engineering, distributed processing, data archit
 
 ---
 
+
 ## Connect
 
-[GitHub](https://github.com/dixitdosibhatla)
+<p align="left">
+  <a href="https://www.linkedin.com/in/dathathreya-dixit/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dixitdosibhatla">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
