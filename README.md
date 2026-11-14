@@ -106,8 +106,6 @@ I enjoy solving practical engineering problems, understanding architectural trad
   </a>
 </p>
 
----
-
 ## Featured Projects
 
 ### 01 · Capital Markets ETL Pipeline
