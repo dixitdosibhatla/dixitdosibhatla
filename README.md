@@ -113,6 +113,15 @@ I enjoy solving practical engineering problems, understanding architectural trad
 - Focused on incremental processing, data quality, and reliable transformations.
 - Explored governance and access management using Unity Catalog.
 
+<p align="center">
+  <a href="https://github.com/dixitdosibhatla/capital_markets_etl_pipeline">
+    <img
+      src="https://raw.githubusercontent.com/dixitdosibhatla/capital_markets_etl_pipeline/main/docs/architecture.png"
+      alt="Capital Markets ETL Pipeline Architecture"
+      width="90%">
+  </a>
+</p>
+
 <p>
   <a href="https://github.com/dixitdosibhatla/capital_markets_etl_pipeline">
     <img src="https://img.shields.io/badge/EXPLORE_PROJECT-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore Capital Markets ETL Pipeline">
