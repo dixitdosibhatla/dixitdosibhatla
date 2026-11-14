@@ -1,11 +1,15 @@
-<p align="center">
-  <img src="assets/github-banner.png" alt="Dathathreya Dixit Dosibhatla - Azure Data Engineer" width="100%">
-</p>
-
 # Dathathreya Dixit Dosibhatla
 ### Azure Data Engineer
 
-Building reliable data pipelines, scalable lakehouse platforms, and analytics-ready data products.
+**Building reliable data pipelines, scalable lakehouse platforms, and analytics-ready data products.**
+
+[LinkedIn](https://www.linkedin.com/in/dathathreya-dixit/) · [GitHub](https://github.com/dixitdosibhatla)
+
+---
+
+## Navigation
+
+[About](#about) · [Technical Expertise](#technical-expertise) · [Featured Projects](#featured-projects) · [Engineering Interests](#engineering-interests) · [Connect](#connect)
 
 ---
 
@@ -13,135 +17,102 @@ Building reliable data pipelines, scalable lakehouse platforms, and analytics-re
 
 I am an Azure Data Engineer focused on building scalable, reliable, and maintainable data platforms.
 
-My work focuses on designing end-to-end data pipelines, implementing lakehouse architectures, and transforming complex source data into analytics-ready datasets.
+My work focuses on designing end-to-end data pipelines, developing lakehouse architectures, and transforming complex source data into analytics-ready datasets.
 
-**Areas of focus**
-- Cloud data engineering with Microsoft Azure
-- Batch and streaming data ingestion
-- Distributed processing with Apache Spark and PySpark
-- Lakehouse architecture using Delta Lake
-- Data modeling, incremental processing, and data quality
-- Analytics and reporting with Power BI
+I enjoy solving practical engineering problems, understanding architectural trade-offs, and building data solutions that address real-world business requirements.
 
-I enjoy solving practical engineering problems, understanding architectural trade-offs, and building data solutions that reflect real-world business requirements.
+## Technical Expertise
 
+**Cloud & Data Platforms**
 
-## Technical Skills
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-| Area | Technologies |
-|---|---|
-| Cloud | Microsoft Azure |
-| Data Integration | Azure Data Factory |
-| Data Processing | Azure Databricks, Apache Spark, PySpark |
-| Data Storage | ADLS Gen2, Delta Lake, Parquet |
-| Analytics | Azure Synapse Analytics, Power BI |
-| Programming | SQL, Python |
-| Engineering Practices | ETL/ELT, Incremental Loading, SCD Type 1/2, Data Quality, Medallion Architecture |
+**Data Engineering & Processing**
 
-### Technology Stack
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=delta&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+**Programming & Analytics**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-<h2>Featured Projects</h2>
+**Engineering Practices**
 
-<h3>01 · Capital Markets ETL Pipeline</h3>
-
-<p>
-  <strong>Flagship Project</strong> — A cloud-native data engineering solution built with Azure Databricks, designed for streaming ingestion, scalable transformations, and risk monitoring.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Azure_Databricks-EA3E23?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square" />
-</p>
-
-**Engineering highlights**
-- Streaming ingestion with Auto Loader
+- ETL / ELT pipeline development
+- Batch ingestion and incremental processing
 - Medallion architecture and Delta Lake
-- Data quality and incremental processing
-- Unity Catalog and risk monitoring
+- Dimensional data modeling and SCD Type 1 / Type 2
+- Data validation and quality checks
 
-<p>
-  <a href="https://github.com/dixitdosibhatla/capital_markets_etl_pipeline"><strong>Explore Capital Markets Pipeline →</strong></a>
-</p>
+---
 
-<hr/>
+## Featured Projects
 
-<h3>02 · Insurance Data Pipeline</h3>
+### 01 · Capital Markets ETL Pipeline
 
-<p>
-  A cloud analytics pipeline using Azure Synapse Analytics to transform insurance data into structured, analytics-ready datasets.
-</p>
+**A cloud-based data engineering pipeline built around scalable ingestion and lakehouse processing.**
 
-<p>
-  <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
+Technologies: Azure Databricks · Apache Spark · Delta Lake · Unity Catalog
 
-**Engineering highlights**
-- Bronze, Silver, and Gold architecture
-- Incremental loading and watermarking
-- Slowly Changing Dimensions (Type 1 and 2)
-- Dimensional modeling and reporting
+- Implemented data ingestion and transformation workflows using Spark.
+- Applied Medallion architecture to organize data across processing layers.
+- Focused on incremental processing, data quality, and reliable transformations.
+- Explored governance and access management using Unity Catalog.
 
-<p>
-  <a href="https://github.com/dixitdosibhatla/insurance-pipeline"><strong>Explore Insurance Pipeline →</strong></a>
-</p>
+[Explore Repository](https://github.com/dixitdosibhatla/capital_markets_etl_pipeline)
 
-<hr/>
+---
 
-<h3>03 · SQL Data Warehouse</h3>
+### 02 · Insurance Data Pipeline
 
-<p>
-  A SQL Server data warehouse integrating ERP and CRM data into an analytics-ready dimensional model.
-</p>
+**An analytics-focused data pipeline designed to transform operational data into structured reporting datasets.**
 
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Warehousing-34495E?style=flat-square" />
-</p>
+Technologies: Azure Data Factory · Azure Synapse · SQL · Power BI
 
-**Engineering highlights**
-- ETL and data integration
-- Fact and dimension modeling
-- Data transformation and analytical structures
+- Designed Bronze, Silver, and Gold data processing layers.
+- Implemented incremental loading using watermark-based processing.
+- Applied dimensional modeling and SCD Type 1 / Type 2 concepts.
+- Prepared curated datasets for downstream analytics and reporting.
 
-<p>
-  <a href="https://github.com/dixitdosibhatla/sql-data-warehouse-project"><strong>Explore SQL Data Warehouse →</strong></a>
-</p>
+[Explore Repository](https://github.com/dixitdosibhatla/insurance-pipeline)
+
+---
+
+### 03 · SQL Data Warehouse
+
+**A SQL-based data warehouse project focused on structured data integration and analytical modeling.**
+
+Technologies: SQL Server · Data Warehousing · ETL
+
+- Developed ETL workflows for integrating and transforming source data.
+- Designed fact and dimension tables for analytical workloads.
+- Applied data transformation and warehouse modeling concepts.
+
+[Explore Repository](https://github.com/dixitdosibhatla/sql-data-warehouse-project)
+
+---
 
 ## Engineering Interests
 
 - Designing scalable cloud data architectures
-- Building reliable batch and streaming pipelines
+- Building reliable batch and streaming ingestion pipelines
 - Distributed data processing with Apache Spark
-- Data modeling and warehouse design
-- Improving data quality, observability, and performance
+- Data modeling and lakehouse architecture
+- Data quality, observability, and pipeline performance
 
 ---
 
-
 ## Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dathathreya-dixit/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/dixitdosibhatla">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I'm interested in connecting with data engineering professionals and discussing practical approaches to building modern data platforms.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dathathreya-dixit/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dixitdosibhatla)
