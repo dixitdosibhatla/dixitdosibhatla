@@ -95,6 +95,19 @@ I enjoy solving practical engineering problems, understanding architectural trad
 
 ---
 
+## Certifications
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/dathathreyadixitdosibhatla/credentials/dd1820ae9f082943">
+    <img src="https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+  <a href="https://credentials.databricks.com/31f6c2cc-c27f-4db8-9915-90c23ec607f2">
+    <img src="https://img.shields.io/badge/Databricks-Data_Engineer_Associate-EA3A2A?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## Featured Projects
 
 ### 01 · Capital Markets ETL Pipeline
