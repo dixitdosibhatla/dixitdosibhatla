@@ -25,6 +25,7 @@
 
 <p align="center">
   <a href="#about"><img src="https://img.shields.io/badge/ABOUT-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="About"></a>
+  <a href="#certifications"><img src="https://img.shields.io/badge/CERTIFICATIONS-10233F?style=for-the-badge&logo=microsoft&logoColor=38BDF8" alt="Certifications"></a>
   <a href="#technical-expertise"><img src="https://img.shields.io/badge/TECHNICAL_EXPERTISE-10233F?style=for-the-badge&logo=code&logoColor=38BDF8" alt="Technical Expertise"></a>
   <a href="#featured-projects"><img src="https://img.shields.io/badge/FEATURED_PROJECTS-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Featured Projects"></a>
   <a href="#engineering-interests"><img src="https://img.shields.io/badge/ENGINEERING_INTERESTS-10233F?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Engineering Interests"></a>
@@ -37,9 +38,11 @@
 
 I am an Azure Data Engineer focused on building scalable, reliable, and maintainable data platforms.
 
-My work focuses on designing end-to-end data pipelines, developing lakehouse architectures, and transforming complex source data into analytics-ready datasets.
+My work involves designing end-to-end data pipelines, developing lakehouse architectures, integrating data from multiple sources, and transforming complex datasets into analytics-ready information.
 
 I enjoy solving practical engineering problems, understanding architectural trade-offs, and building data solutions that address real-world business requirements.
+
+My areas of focus include cloud data engineering, distributed data processing, data warehousing, and modern analytics platforms.
 
 ---
 
@@ -47,10 +50,10 @@ I enjoy solving practical engineering problems, understanding architectural trad
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/dathathreyadixitdosibhatla/credentials/dd1820ae9f082943">
-    <img src="https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified Fabric Data Engineer Associate">
   </a>
   <a href="https://credentials.databricks.com/31f6c2cc-c27f-4db8-9915-90c23ec607f2">
-    <img src="https://img.shields.io/badge/Databricks-Data_Engineer_Associate-EA3A2A?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Databricks-Data_Engineer_Associate-EA3A2A?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified Data Engineer Associate">
   </a>
 </p>
 
@@ -60,35 +63,43 @@ I enjoy solving practical engineering problems, understanding architectural trad
 
 ### Cloud & Data Platforms
 
-![Azure](https://img.shields.io/badge/Azure-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8)
-![ADF](https://img.shields.io/badge/Data_Factory-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8)
-![Databricks](https://img.shields.io/badge/Databricks-10233F?style=flat-square&logo=databricks&logoColor=38BDF8)
-![Synapse](https://img.shields.io/badge/Synapse-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8)
+<p>
+  <img src="https://img.shields.io/badge/Azure-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8" alt="Azure">
+  <img src="https://img.shields.io/badge/Data_Factory-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8" alt="Azure Data Factory">
+  <img src="https://img.shields.io/badge/Databricks-10233F?style=flat-square&logo=databricks&logoColor=38BDF8" alt="Databricks">
+  <img src="https://img.shields.io/badge/Synapse_Analytics-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8" alt="Azure Synapse Analytics">
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-10233F?style=flat-square&logo=microsoftfabric&logoColor=38BDF8" alt="Microsoft Fabric">
+</p>
 
 - **Azure Data Factory:** Pipeline orchestration, linked services, datasets, integration runtimes, parameterized pipelines, metadata-driven ingestion, and incremental loading.
-- **Azure Data Lake Storage Gen2:** Data lake organization, storage layers, and working with structured and semi-structured data.
-- **Azure Synapse Analytics:** Serverless SQL pools, querying external data using `OPENROWSET`, working with Parquet files, and `COPY INTO`.
+- **Azure Data Lake Storage Gen2:** Data lake organization, storage layers, and structured and semi-structured data.
+- **Azure Synapse Analytics:** Synapse Pipelines, Serverless SQL pools, `OPENROWSET`, Parquet, and `COPY INTO`.
+- **Azure Databricks:** Spark-based data processing, notebooks, lakehouse implementation, and Delta Lake.
 - **Azure DevOps:** Git integration, source control, and deployment workflows.
 
 ### Data Engineering & Processing
 
-![Spark](https://img.shields.io/badge/Apache_Spark-10233F?style=flat-square&logo=apachespark&logoColor=38BDF8)
-![PySpark](https://img.shields.io/badge/PySpark-10233F?style=flat-square&logo=apachespark&logoColor=38BDF8)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-10233F?style=flat-square&logo=delta&logoColor=38BDF8)
-![Parquet](https://img.shields.io/badge/Parquet-10233F?style=flat-square&logo=apacheparquet&logoColor=38BDF8)
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-10233F?style=flat-square&logo=apachespark&logoColor=38BDF8" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/PySpark-10233F?style=flat-square&logo=apachespark&logoColor=38BDF8" alt="PySpark">
+  <img src="https://img.shields.io/badge/Delta_Lake-10233F?style=flat-square&logo=delta&logoColor=38BDF8" alt="Delta Lake">
+  <img src="https://img.shields.io/badge/Parquet-10233F?style=flat-square&logo=apacheparquet&logoColor=38BDF8" alt="Parquet">
+</p>
 
-- **Azure Databricks:** Notebook development, Spark-based transformations, and lakehouse implementation.
 - **Apache Spark & PySpark:** DataFrame operations, joins, aggregations, filtering, transformations, and distributed data processing.
 - **Delta Lake:** ACID transactions, schema enforcement, schema evolution, and reliable data storage.
 - **Medallion Architecture:** Organizing data into Bronze, Silver, and Gold processing layers.
-- **Data Processing:** Batch ingestion, incremental transformations, and working with CSV, JSON, and Parquet formats.
+- **Data Ingestion:** Batch processing, streaming ingestion, incremental transformations, and working with CSV, JSON, and Parquet formats.
+- **Data Integration:** Combining data from relational databases, files, and HTTP-based sources.
 
 ### Programming & Analytics
 
-![Python](https://img.shields.io/badge/Python-10233F?style=flat-square&logo=python&logoColor=38BDF8)
-![SQL](https://img.shields.io/badge/SQL-10233F?style=flat-square&logo=postgresql&logoColor=38BDF8)
-![SQL Server](https://img.shields.io/badge/SQL_Server-10233F?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8)
-![Power BI](https://img.shields.io/badge/Power_BI-10233F?style=flat-square&logo=powerbi&logoColor=38BDF8)
+<p>
+  <img src="https://img.shields.io/badge/Python-10233F?style=flat-square&logo=python&logoColor=38BDF8" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-10233F?style=flat-square&logo=postgresql&logoColor=38BDF8" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL_Server-10233F?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Power_BI-10233F?style=flat-square&logo=powerbi&logoColor=38BDF8" alt="Power BI">
+</p>
 
 - **SQL:** Complex queries, joins, CTEs, subqueries, aggregations, window functions, and data transformations.
 - **Python:** Data processing, scripting, automation, and working with structured data.
@@ -99,11 +110,10 @@ I enjoy solving practical engineering problems, understanding architectural trad
 ### Engineering Practices
 
 - ETL / ELT pipeline development and orchestration.
-- Batch ingestion and incremental processing.
+- Batch and incremental data processing.
 - Metadata-driven and parameterized pipeline design.
-- Medallion architecture and lakehouse design.
-- Dimensional data modeling and SCD Type 1 / Type 2.
-- Data validation and quality checks.
+- Data quality validation and transformation checks.
+- Dimensional modeling and analytical data structures.
 - Source control and maintainable data workflows.
 
 ---
@@ -112,19 +122,22 @@ I enjoy solving practical engineering problems, understanding architectural trad
 
 ### 01 · Capital Markets ETL Pipeline
 
-**A cloud-based data engineering pipeline built around scalable ingestion and lakehouse processing.**
+**Real-time trade analytics and risk monitoring using Azure Databricks and Delta Lake.**
 
-![Databricks](https://img.shields.io/badge/Databricks-10233F?style=flat-square&logo=databricks&logoColor=38BDF8)
-![Spark](https://img.shields.io/badge/Apache_Spark-10233F?style=flat-square&logo=apachespark&logoColor=38BDF8)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-10233F?style=flat-square&logo=delta&logoColor=38BDF8)
-![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-10233F?style=flat-square&logo=databricks&logoColor=38BDF8)
+<p>
+  <img src="https://img.shields.io/badge/Databricks-10233F?style=flat-square&logo=databricks&logoColor=38BDF8" alt="Databricks">
+  <img src="https://img.shields.io/badge/Apache_Spark-10233F?style=flat-square&logo=apachespark&logoColor=38BDF8" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Delta_Lake-10233F?style=flat-square&logo=delta&logoColor=38BDF8" alt="Delta Lake">
+  <img src="https://img.shields.io/badge/Unity_Catalog-10233F?style=flat-square&logo=databricks&logoColor=38BDF8" alt="Unity Catalog">
+</p>
 
 **Key Engineering Areas**
 
-- Implemented data ingestion and transformation workflows using Spark.
-- Applied Medallion architecture to organize data across processing layers.
-- Focused on incremental processing, data quality, and reliable transformations.
-- Explored governance and access management using Unity Catalog.
+- Implemented streaming ingestion using Databricks Auto Loader for trade executions and market data.
+- Built Bronze, Silver, and Gold processing layers using Delta Live Tables.
+- Applied data quality enforcement, deduplication, enrichment, and SCD Type 2 processing.
+- Integrated Unity Catalog for data governance and exposed curated Gold-layer analytics through Databricks SQL.
+- Developed analytical KPIs for trading activity, desk P&L, sector exposure, and counterparty concentration.
 
 <p>
   <a href="https://github.com/dixitdosibhatla/capital_markets_etl_pipeline">
@@ -134,21 +147,25 @@ I enjoy solving practical engineering problems, understanding architectural trad
 
 ---
 
-### 02 · Insurance Data Pipeline
+### 02 · P&C Insurance Data Pipeline
 
-**An analytics-focused data pipeline designed to transform operational data into structured reporting datasets.**
+**An end-to-end insurance data integration and analytics solution built using Azure Synapse Analytics.**
 
-![ADF](https://img.shields.io/badge/Data_Factory-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8)
-![Synapse](https://img.shields.io/badge/Synapse-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8)
-![SQL](https://img.shields.io/badge/SQL-10233F?style=flat-square&logo=postgresql&logoColor=38BDF8)
-![Power BI](https://img.shields.io/badge/Power_BI-10233F?style=flat-square&logo=powerbi&logoColor=38BDF8)
+<p>
+  <img src="https://img.shields.io/badge/Azure_Synapse-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8" alt="Azure Synapse">
+  <img src="https://img.shields.io/badge/ADLS_Gen2-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8" alt="ADLS Gen2">
+  <img src="https://img.shields.io/badge/SQL_Server-10233F?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Power_BI-10233F?style=flat-square&logo=powerbi&logoColor=38BDF8" alt="Power BI">
+</p>
 
 **Key Engineering Areas**
 
-- Designed Bronze, Silver, and Gold data processing layers.
-- Implemented incremental loading using watermark-based processing.
-- Applied dimensional modeling and SCD Type 1 / Type 2 concepts.
-- Prepared curated datasets for downstream analytics and reporting.
+- Integrated on-premises SQL Server tables and HTTP-based JSON sources.
+- Implemented Bronze ingestion and watermark-based incremental loading.
+- Developed Bronze, Silver, and Gold data processing layers using Synapse Pipelines and ADLS Gen2.
+- Implemented data cleansing, validation, deduplication, and SCD Type 1 / Type 2 transformations.
+- Designed a claims-focused star schema with fact and dimension tables for insurance analytics.
+- Prepared curated datasets for Power BI reporting and analysis.
 
 <p>
   <a href="https://github.com/dixitdosibhatla/insurance-pipeline">
@@ -160,17 +177,22 @@ I enjoy solving practical engineering problems, understanding architectural trad
 
 ### 03 · SQL Data Warehouse
 
-**A SQL-based data warehouse project focused on structured data integration and analytical modeling.**
+**A SQL Server data warehouse integrating ERP and CRM datasets for analytical reporting and business insights.**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-10233F?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8)
-![Data Warehouse](https://img.shields.io/badge/Data_Warehousing-10233F?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8)
-![ETL](https://img.shields.io/badge/ETL-10233F?style=flat-square&logo=databricks&logoColor=38BDF8)
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-10233F?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Data_Warehousing-10233F?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8" alt="Data Warehousing">
+  <img src="https://img.shields.io/badge/ETL-10233F?style=flat-square&logo=databricks&logoColor=38BDF8" alt="ETL">
+  <img src="https://img.shields.io/badge/Dimensional_Modeling-10233F?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8" alt="Dimensional Modeling">
+</p>
 
 **Key Engineering Areas**
 
-- Developed ETL workflows for integrating and transforming source data.
-- Designed fact and dimension tables for analytical workloads.
-- Applied data transformation and warehouse modeling concepts.
+- Integrated ERP and CRM datasets from multiple CSV-based source systems.
+- Designed a modern Bronze, Silver, and Gold data warehouse architecture.
+- Implemented SQL-based data extraction, cleansing, standardization, and transformation workflows.
+- Designed fact and dimension tables following star-schema principles.
+- Developed data quality checks and analytics-ready datasets for reporting.
 
 <p>
   <a href="https://github.com/dixitdosibhatla/sql-data-warehouse-project">
@@ -182,17 +204,17 @@ I enjoy solving practical engineering problems, understanding architectural trad
 
 ## Engineering Interests
 
-- Designing scalable cloud data architectures.
+- Designing scalable cloud data architectures and modern lakehouse platforms.
 - Building reliable batch and streaming ingestion pipelines.
-- Distributed data processing with Apache Spark.
-- Data modeling and lakehouse architecture.
+- Distributed data processing and optimization with Apache Spark.
+- Dimensional modeling and analytics-ready data products.
 - Data quality, observability, and pipeline performance.
 
 ---
 
 ## Connect
 
-I'm interested in connecting with data engineering professionals and discussing practical approaches to building modern data platforms.
+I'm interested in connecting with data engineering professionals, exchanging ideas, and discussing practical approaches to building modern data platforms.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dathathreya-dixit/">
