@@ -126,15 +126,6 @@ I enjoy solving practical engineering problems, understanding architectural trad
 - Focused on incremental processing, data quality, and reliable transformations.
 - Explored governance and access management using Unity Catalog.
 
-<p align="center">
-  <a href="https://github.com/dixitdosibhatla/capital_markets_etl_pipeline">
-    <img
-      src="https://raw.githubusercontent.com/dixitdosibhatla/capital_markets_etl_pipeline/main/docs/architecture.png"
-      alt="Capital Markets ETL Pipeline Architecture"
-      width="90%">
-  </a>
-</p>
-
 <p>
   <a href="https://github.com/dixitdosibhatla/capital_markets_etl_pipeline">
     <img src="https://img.shields.io/badge/EXPLORE_PROJECT-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore Capital Markets ETL Pipeline">
@@ -159,13 +150,6 @@ I enjoy solving practical engineering problems, understanding architectural trad
 - Applied dimensional modeling and SCD Type 1 / Type 2 concepts.
 - Prepared curated datasets for downstream analytics and reporting.
 
-<p align="center">
-  <a href="https://github.com/dixitdosibhatla/insurance-pipeline">
-    <img src="https://raw.githubusercontent.com/dixitdosibhatla/insurance-pipeline/main/docs/P_C_Insurance_Pipeline_Architecture.png"
-         alt="P&C Insurance Data Pipeline Architecture" width="90%">
-  </a>
-</p>
-
 <p>
   <a href="https://github.com/dixitdosibhatla/insurance-pipeline">
     <img src="https://img.shields.io/badge/EXPLORE_PROJECT-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore Insurance Data Pipeline">
@@ -187,13 +171,6 @@ I enjoy solving practical engineering problems, understanding architectural trad
 - Developed ETL workflows for integrating and transforming source data.
 - Designed fact and dimension tables for analytical workloads.
 - Applied data transformation and warehouse modeling concepts.
-
-<p align="center">
-  <a href="https://github.com/dixitdosibhatla/sql-data-warehouse-project">
-    <img src="https://raw.githubusercontent.com/dixitdosibhatla/sql-data-warehouse-project/main/docs/Data_Architecture.png"
-         alt="SQL Data Warehouse Architecture" width="90%">
-  </a>
-</p>
 
 <p>
   <a href="https://github.com/dixitdosibhatla/sql-data-warehouse-project">
