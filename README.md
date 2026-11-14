@@ -40,39 +40,78 @@ My interests include cloud data engineering, distributed processing, data archit
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-## Featured Projects
 
-### 1. Capital Markets ETL Pipeline
-An Azure Databricks-based data engineering project focused on streaming ingestion, transformation, and risk monitoring.
+<h2>Featured Projects</h2>
 
-- Auto Loader and Delta Lake
-- Medallion architecture
+<h3>01 · Capital Markets ETL Pipeline</h3>
+
+<p>
+  <strong>Flagship Project</strong> — A cloud-native data engineering solution built with Azure Databricks, designed for streaming ingestion, scalable transformations, and risk monitoring.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure_Databricks-EA3E23?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square" />
+</p>
+
+**Engineering highlights**
+- Streaming ingestion with Auto Loader
+- Medallion architecture and Delta Lake
 - Data quality and incremental processing
-- Unity Catalog
+- Unity Catalog and risk monitoring
 
-[Explore Repository](https://github.com/dixitdosibhatla/capital_markets_etl_pipeline)
+<p>
+  <a href="https://github.com/dixitdosibhatla/capital_markets_etl_pipeline"><strong>Explore Capital Markets Pipeline →</strong></a>
+</p>
 
-### 2. Insurance Data Pipeline
-A cloud analytics pipeline built around insurance data, using Azure Synapse Analytics and a layered data architecture.
+<hr/>
 
-- Bronze, Silver, and Gold layers
-- Incremental data loading and watermarking
-- Slowly Changing Dimensions (SCD Type 1 and 2)
-- Dimensional modeling and Power BI
+<h3>02 · Insurance Data Pipeline</h3>
 
-[Explore Repository](https://github.com/dixitdosibhatla/insurance-pipeline)
+<p>
+  A cloud analytics pipeline using Azure Synapse Analytics to transform insurance data into structured, analytics-ready datasets.
+</p>
 
-### 3. SQL Data Warehouse
-A SQL Server-based data warehouse project integrating ERP and CRM data into an analytics-ready dimensional model.
+<p>
+  <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
 
-- ETL development
+**Engineering highlights**
+- Bronze, Silver, and Gold architecture
+- Incremental loading and watermarking
+- Slowly Changing Dimensions (Type 1 and 2)
+- Dimensional modeling and reporting
+
+<p>
+  <a href="https://github.com/dixitdosibhatla/insurance-pipeline"><strong>Explore Insurance Pipeline →</strong></a>
+</p>
+
+<hr/>
+
+<h3>03 · SQL Data Warehouse</h3>
+
+<p>
+  A SQL Server data warehouse integrating ERP and CRM data into an analytics-ready dimensional model.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Warehousing-34495E?style=flat-square" />
+</p>
+
+**Engineering highlights**
+- ETL and data integration
 - Fact and dimension modeling
-- Data integration and transformation
-- Analytical data architecture
+- Data transformation and analytical structures
 
-[Explore Repository](https://github.com/dixitdosibhatla/sql-data-warehouse-project)
-
----
+<p>
+  <a href="https://github.com/dixitdosibhatla/sql-data-warehouse-project"><strong>Explore SQL Data Warehouse →</strong></a>
+</p>
 
 ## Engineering Interests
 
