@@ -146,6 +146,13 @@ I enjoy solving practical engineering problems, understanding architectural trad
 - Applied dimensional modeling and SCD Type 1 / Type 2 concepts.
 - Prepared curated datasets for downstream analytics and reporting.
 
+<p align="center">
+  <a href="https://github.com/dixitdosibhatla/insurance-pipeline">
+    <img src="https://raw.githubusercontent.com/dixitdosibhatla/insurance-pipeline/main/docs/P_C_Insurance_Pipeline_Architecture.png"
+         alt="P&C Insurance Data Pipeline Architecture" width="90%">
+  </a>
+</p>
+
 <p>
   <a href="https://github.com/dixitdosibhatla/insurance-pipeline">
     <img src="https://img.shields.io/badge/EXPLORE_PROJECT-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore Insurance Data Pipeline">
