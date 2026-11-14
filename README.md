@@ -2,19 +2,34 @@
   <img src="assets/github-banner.png" alt="Dathathreya Dixit Dosibhatla - Azure Data Engineer" width="100%">
 </p>
 
-# Dathathreya Dixit Dosibhatla
+<h1 align="center">Dathathreya Dixit Dosibhatla</h1>
 
-### Azure Data Engineer
+<h3 align="center">Azure Data Engineer</h3>
 
-**Building reliable data pipelines, scalable lakehouse platforms, and analytics-ready data products.**
+<p align="center">
+  Building reliable data pipelines, scalable lakehouse platforms, and analytics-ready data products.
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/dathathreya-dixit/) · [GitHub](https://github.com/dixitdosibhatla)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dathathreya-dixit/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-10233F?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/dixitdosibhatla">
+    <img src="https://img.shields.io/badge/GitHub-Follow-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub">
+  </a>
+</p>
 
 ---
 
 ## Navigation
 
-[About](#about) · [Technical Expertise](#technical-expertise) · [Featured Projects](#featured-projects) · [Engineering Interests](#engineering-interests) · [Connect](#connect)
+<p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/ABOUT-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="About"></a>
+  <a href="#technical-expertise"><img src="https://img.shields.io/badge/TECHNICAL_EXPERTISE-10233F?style=for-the-badge&logo=code&logoColor=38BDF8" alt="Technical Expertise"></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/FEATURED_PROJECTS-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Featured Projects"></a>
+  <a href="#engineering-interests"><img src="https://img.shields.io/badge/ENGINEERING_INTERESTS-10233F?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Engineering Interests"></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-10233F?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="Connect"></a>
+</p>
 
 ---
 
@@ -30,7 +45,7 @@ I enjoy solving practical engineering problems, understanding architectural trad
 
 ## Technical Expertise
 
-**Cloud & Data Platforms**
+### Cloud & Data Platforms
 
 ![Azure](https://img.shields.io/badge/Azure-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8)
 ![ADF](https://img.shields.io/badge/Data_Factory-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8)
@@ -42,7 +57,7 @@ I enjoy solving practical engineering problems, understanding architectural trad
 - **Azure Synapse Analytics:** Serverless SQL pools, querying external data using `OPENROWSET`, working with Parquet files, and `COPY INTO`.
 - **Azure DevOps:** Git integration, source control, and deployment workflows.
 
-**Data Engineering & Processing**
+### Data Engineering & Processing
 
 ![Spark](https://img.shields.io/badge/Apache_Spark-10233F?style=flat-square&logo=apachespark&logoColor=38BDF8)
 ![PySpark](https://img.shields.io/badge/PySpark-10233F?style=flat-square&logo=apachespark&logoColor=38BDF8)
@@ -55,7 +70,7 @@ I enjoy solving practical engineering problems, understanding architectural trad
 - **Medallion Architecture:** Organizing data into Bronze, Silver, and Gold processing layers.
 - **Data Processing:** Batch ingestion, incremental transformations, and working with CSV, JSON, and Parquet formats.
 
-**Programming & Analytics**
+### Programming & Analytics
 
 ![Python](https://img.shields.io/badge/Python-10233F?style=flat-square&logo=python&logoColor=38BDF8)
 ![SQL](https://img.shields.io/badge/SQL-10233F?style=flat-square&logo=postgresql&logoColor=38BDF8)
@@ -68,7 +83,7 @@ I enjoy solving practical engineering problems, understanding architectural trad
 - **Data Modeling:** Relational and dimensional modeling, fact and dimension tables, and Slowly Changing Dimensions (SCD Type 1 and Type 2).
 - **Power BI:** Data visualization, analytical reporting, and dashboard development.
 
-**Engineering Practices**
+### Engineering Practices
 
 - ETL / ELT pipeline development and orchestration.
 - Batch ingestion and incremental processing.
@@ -86,14 +101,23 @@ I enjoy solving practical engineering problems, understanding architectural trad
 
 **A cloud-based data engineering pipeline built around scalable ingestion and lakehouse processing.**
 
-Technologies: Azure Databricks · Apache Spark · Delta Lake · Unity Catalog
+![Databricks](https://img.shields.io/badge/Databricks-10233F?style=flat-square&logo=databricks&logoColor=38BDF8)
+![Spark](https://img.shields.io/badge/Apache_Spark-10233F?style=flat-square&logo=apachespark&logoColor=38BDF8)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-10233F?style=flat-square&logo=delta&logoColor=38BDF8)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-10233F?style=flat-square&logo=databricks&logoColor=38BDF8)
+
+**Key Engineering Areas**
 
 - Implemented data ingestion and transformation workflows using Spark.
 - Applied Medallion architecture to organize data across processing layers.
 - Focused on incremental processing, data quality, and reliable transformations.
 - Explored governance and access management using Unity Catalog.
 
-[Explore Repository](https://github.com/dixitdosibhatla/capital_markets_etl_pipeline)
+<p>
+  <a href="https://github.com/dixitdosibhatla/capital_markets_etl_pipeline">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore Capital Markets ETL Pipeline">
+  </a>
+</p>
 
 ---
 
@@ -101,14 +125,23 @@ Technologies: Azure Databricks · Apache Spark · Delta Lake · Unity Catalog
 
 **An analytics-focused data pipeline designed to transform operational data into structured reporting datasets.**
 
-Technologies: Azure Data Factory · Azure Synapse · SQL · Power BI
+![ADF](https://img.shields.io/badge/Data_Factory-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8)
+![Synapse](https://img.shields.io/badge/Synapse-10233F?style=flat-square&logo=microsoftazure&logoColor=38BDF8)
+![SQL](https://img.shields.io/badge/SQL-10233F?style=flat-square&logo=postgresql&logoColor=38BDF8)
+![Power BI](https://img.shields.io/badge/Power_BI-10233F?style=flat-square&logo=powerbi&logoColor=38BDF8)
+
+**Key Engineering Areas**
 
 - Designed Bronze, Silver, and Gold data processing layers.
 - Implemented incremental loading using watermark-based processing.
 - Applied dimensional modeling and SCD Type 1 / Type 2 concepts.
 - Prepared curated datasets for downstream analytics and reporting.
 
-[Explore Repository](https://github.com/dixitdosibhatla/insurance-pipeline)
+<p>
+  <a href="https://github.com/dixitdosibhatla/insurance-pipeline">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore Insurance Data Pipeline">
+  </a>
+</p>
 
 ---
 
@@ -116,13 +149,21 @@ Technologies: Azure Data Factory · Azure Synapse · SQL · Power BI
 
 **A SQL-based data warehouse project focused on structured data integration and analytical modeling.**
 
-Technologies: SQL Server · Data Warehousing · ETL
+![SQL Server](https://img.shields.io/badge/SQL_Server-10233F?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehousing-10233F?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8)
+![ETL](https://img.shields.io/badge/ETL-10233F?style=flat-square&logo=databricks&logoColor=38BDF8)
+
+**Key Engineering Areas**
 
 - Developed ETL workflows for integrating and transforming source data.
 - Designed fact and dimension tables for analytical workloads.
 - Applied data transformation and warehouse modeling concepts.
 
-[Explore Repository](https://github.com/dixitdosibhatla/sql-data-warehouse-project)
+<p>
+  <a href="https://github.com/dixitdosibhatla/sql-data-warehouse-project">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore SQL Data Warehouse">
+  </a>
+</p>
 
 ---
 
@@ -140,6 +181,11 @@ Technologies: SQL Server · Data Warehousing · ETL
 
 I'm interested in connecting with data engineering professionals and discussing practical approaches to building modern data platforms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-10233F?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/dathathreya-dixit/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-10233F?style=flat-square&logo=github&logoColor=38BDF8)](https://github.com/dixitdosibhatla)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dathathreya-dixit/">
+    <img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-10233F?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="Connect on LinkedIn">
+  </a>
+  <a href="https://github.com/dixitdosibhatla">
+    <img src="https://img.shields.io/badge/GitHub-VIEW_PROFILE-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View GitHub Profile">
+  </a>
+</p>
