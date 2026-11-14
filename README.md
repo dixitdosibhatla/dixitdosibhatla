@@ -29,24 +29,24 @@ I enjoy solving practical engineering problems, understanding architectural trad
 
 **Cloud & Data Platforms**
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-10233F?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8)
+![ADF](https://img.shields.io/badge/Data_Factory-10233F?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8)
+![Databricks](https://img.shields.io/badge/Databricks-10233F?style=for-the-badge&logo=databricks&logoColor=38BDF8)
+![Synapse](https://img.shields.io/badge/Synapse-10233F?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8)
 
 **Data Engineering & Processing**
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=delta&logoColor=white)
-![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-10233F?style=for-the-badge&logo=apachespark&logoColor=38BDF8)
+![PySpark](https://img.shields.io/badge/PySpark-10233F?style=for-the-badge&logo=apachespark&logoColor=38BDF8)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-10233F?style=for-the-badge&logo=delta&logoColor=38BDF8)
+![Parquet](https://img.shields.io/badge/Parquet-10233F?style=for-the-badge&logo=apacheparquet&logoColor=38BDF8)
 
 **Programming & Analytics**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-10233F?style=for-the-badge&logo=python&logoColor=38BDF8)
+![SQL](https://img.shields.io/badge/SQL-10233F?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
+![SQL Server](https://img.shields.io/badge/SQL_Server-10233F?style=for-the-badge&logo=microsoftsqlserver&logoColor=38BDF8)
+![Power BI](https://img.shields.io/badge/Power_BI-10233F?style=for-the-badge&logo=powerbi&logoColor=38BDF8)
 
 **Engineering Practices**
 
