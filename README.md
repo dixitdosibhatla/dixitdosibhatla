@@ -175,6 +175,13 @@ I enjoy solving practical engineering problems, understanding architectural trad
 - Designed fact and dimension tables for analytical workloads.
 - Applied data transformation and warehouse modeling concepts.
 
+<p align="center">
+  <a href="https://github.com/dixitdosibhatla/sql-data-warehouse-project">
+    <img src="https://raw.githubusercontent.com/dixitdosibhatla/sql-data-warehouse-project/main/docs/Data_Architecture.png"
+         alt="SQL Data Warehouse Architecture" width="90%">
+  </a>
+</p>
+
 <p>
   <a href="https://github.com/dixitdosibhatla/sql-data-warehouse-project">
     <img src="https://img.shields.io/badge/EXPLORE_PROJECT-10233F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore SQL Data Warehouse">
